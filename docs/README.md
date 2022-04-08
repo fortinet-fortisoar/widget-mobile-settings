@@ -39,7 +39,7 @@ Each object contains the following parameters:
 
 The **navigation.json** renders as follows in the UI:
 
-<img src="./media/mobile-settings-navigation.png" alt="Mobile Settings - Navigation" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-mobile-settings/release/2.0.0/docs/media/mobile-settings-navigation.png" alt="Mobile Settings - Navigation" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 </br>
 
 <h3 style="border-bottom: 1.8px solid gray;"> listView.json</h3></br>
@@ -56,7 +56,7 @@ The **listView.json** file contains the following parameters:
 
 The **listView.json** renders as follows in the UI:
 
-<img src="./media/mobile-settings-list.png" alt="Mobile Settings - List View" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-mobile-settings/release/2.0.0/docs/media/mobile-settings-list.png" alt="Mobile Settings - List View" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 </br>
 
 <h3 style="border-bottom: 1.8px solid gray;"> detailView.json</h3></br>
@@ -74,5 +74,5 @@ The **detailView.json** file contains the following parameters:
 
 The **detailView.json** renders as follows in the UI:
 
-<img src="./media/mobile-settings-detail.jpg" alt="Mobile Settings - Detail View" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-mobile-settings/release/2.0.0/docs/media/mobile-settings-detail.jpg" alt="Mobile Settings - Detail View" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 </br>
